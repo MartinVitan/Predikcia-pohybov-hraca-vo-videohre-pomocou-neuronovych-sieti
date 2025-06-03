@@ -10,7 +10,7 @@ Na trénovanie boli použité dve architektúry neurónových sietí:
 Oba modely využívajú architektúru **LSTM (Long Short-Term Memory)** a sú implementované v **PyTorch**.
 
 ## Štruktúra projektu
-
+```
 TrainingModel/
 ├── convert_data.py # CSV -> HDF5 (supervised model)
 ├── convert_data_rewards.py # HDF5 -> HDF5 s odmenami (reward model)
@@ -30,7 +30,7 @@ Source/MyProject/
 
 README.md
 requirements.txt # Zoznam použitých knižníc
-
+```
 ## Návod na použitie
 
 ### 1. Inštalácia závislostí
