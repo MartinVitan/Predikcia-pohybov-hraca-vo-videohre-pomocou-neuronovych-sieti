@@ -21,9 +21,6 @@ TrainingModel/
 ├── trained_model.pt # Natrénovaný model učenia s učiteľom
 ├── trained_model_reward.pt # Natrénovaný model učenia posilňovaním
 
-Data/
-├── Game_YYYY-MM-DD-HH-MM-SS.csv # Zaznamenané dáta zo zápasov vo formáte CSV
-
 Source/MyProject/
 ├── DataCollector.cpp # Implementácia komponentu ADataCollector
 ├── DataCollector.h # Deklarácia triedy ADataCollector
