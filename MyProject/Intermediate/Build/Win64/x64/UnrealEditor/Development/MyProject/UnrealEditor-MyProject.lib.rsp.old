@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\AProjectileBase.gen.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\AProjectileClass.gen.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\DataCollector.gen.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\FlagActor.gen.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\AInferenceClient.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\AProjectileBase.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\AProjectileClass.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\DataCollector.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\FlagActor.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
+"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Default.rc2.res"
+/OUT:"C:\Users\marti\OneDrive\Dokumenty\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject.lib"
